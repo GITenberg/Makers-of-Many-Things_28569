@@ -1,0 +1,36 @@
+_repo: Makers-of-Many-Things_28569
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tappan, Eva March
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '5176'
+    url: http://www.gutenberg.org/2009/agents/5176
+    wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2009-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28569'
+  lccn: '16026936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manufactures'
+- !lcc 'PE'
+- !lcsh 'Readers'
+tableOfContents: The little friction match -- About india rubber -- "Kid" gloves --
+  How rags and trees become paper -- How books are made -- From goose quill to fountain
+  pens and lead pencils -- The dishes on our tables -- How the wheels of a watch go
+  around -- The making of shoes -- In the cotton mill -- Silkworms and their work.
+title: Makers of Many Things
+url: http://www.gutenberg.org/ebooks/28569
